@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://engineering.oregonstate.edu/EECS'>College of Engineering</a>.
+subtitle: "<a href='https://engineering.oregonstate.edu/EECS'>College of Engineering</a>."
 
 profile:
   align: right
