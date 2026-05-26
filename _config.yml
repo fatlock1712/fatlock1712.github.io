@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Huu Phat Loc (Loc) Nguyen # the website title (if blank, full name will be used instead)
-first_name: Huu Phat Loc (Loc)
+title: Loc Nguyen # the website title (if blank, full name will be used instead)
+first_name: Loc
 middle_name: 
 last_name: Nguyen
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to Loc's world!
 footer_text: ""
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: fatlock1712, fatlock, loc nguyen OSU, loc nguyen oregon state university, phat loc # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: my-logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
