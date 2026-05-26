@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
     <p>Corvallis, OR 97331</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,6 +29,3 @@ latest_posts:
 
 I am a rising sophomore at Oregon State University, pursuing a double major in Computer Science and Mathematics. While I am actively exploring various domains within my majors, I have a particularly strong passion for graph theory and problem-solving. Outside of my academic work, my hobbies include listening to rock music, playing turn-based games, and exploring new kinds of tea.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
