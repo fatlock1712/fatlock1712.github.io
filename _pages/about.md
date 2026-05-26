@@ -7,7 +7,7 @@ subtitle: "<a href='https://engineering.oregonstate.edu/EECS'>College of Enginee
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Corvallis, OR 97331</p>
     
