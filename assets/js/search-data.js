@@ -483,7 +483,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@@nguyen-loc1712", "_blank");
+          window.open("https://youtube.com/@nguyen-loc1712", "_blank");
         },
       },{
       id: 'light-theme',
