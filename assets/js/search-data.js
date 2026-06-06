@@ -389,7 +389,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-published-my-own-website",
+            },},{id: "news-finished-my-spring-2026-directed-reading-program-link-https-drive-google-com-file-d-1iwoxl5bky9f2kx5lgr4fvejyc2jvq0xk-view-usp-sharing-to-it",
+          title: 'Finished my Spring 2026 Directed Reading Program! [Link]{https://drive.google.com/file/d/1iwoXL5BKy9F2kX5lGr4FvEjyC2jvq0xK/view?usp=sharing} to it.',
+          description: "",
+          section: "News",},{id: "news-published-my-own-website",
           title: 'Published my own website.',
           description: "",
           section: "News",},{id: "projects-project-1",
