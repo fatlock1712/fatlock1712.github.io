@@ -28,6 +28,7 @@ latest_posts:
 
 I am a rising sophomore at Oregon State University, pursuing a double major in Computer Science and Mathematics. While I am actively exploring various domains within my majors, I have a particularly strong passion for graph theory and problem-solving. Outside of my academic work, my hobbies include listening to rock music, playing turn-based games, and exploring new kinds of tea.
 
+Currently, I'm working on unstructured data compression algorithms. Hopefully, I could share more about it after making significant contribution to the project!
 ### Education:
 
 **B.S. in Computer Science and Mathematics, Oregon State University**
