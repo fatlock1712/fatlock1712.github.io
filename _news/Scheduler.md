@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished a side project (schedule finder) during the summer, and now wait for the registration week to advertise it. [Try it out!](https://beavs-scheduler.github.io).
+Finished a side project (schedule finder) during the summer, and now wait for the registration week to advertise it. [Try it out!](https://beavs-scheduler.github.io)
