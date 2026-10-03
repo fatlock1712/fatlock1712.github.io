@@ -393,7 +393,7 @@ ninja.data = [{
           section: "News",},{id: "news-dam-robotics-club-underwater-team-finished-27th-36-at-the-mate-rov-2026-i-worked-on-software-and-computer-vision-task-result",
           title: 'DAM Robotics Club, Underwater Team finished 27th/36 at the MATE ROV 2026, I...',
           description: "",
-          section: "News",},{id: "news-finished-a-side-project-schedule-finder-during-the-summer-and-now-wait-for-the-registration-week-to-advertise-it-try-it-out",
+          section: "News",},{id: "news-finished-a-side-project-schedule-finder-during-the-summer-and-now-wait-for-the-registration-week-to-advertise-it-scheduler",
           title: 'Finished a side project (schedule finder) during the summer, and now wait for...',
           description: "",
           section: "News",},{id: "news-published-a-small-game-i-made-during-the-spring-break-game",
