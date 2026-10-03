@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published a small game I made during Spring break [Game](https://loop-dungeon.github.io).
+Published a small game I made during the Spring break [Game](https://loop-dungeon.github.io).
